@@ -132,3 +132,28 @@ button:hover {
 	font-weight: 300;
 	font-size: 1.313rem;
 }
+
+/*Social footer*/
+
+.social {
+	background-color:#fff;
+	overflow: auto;
+	padding-bottom: 5.375rem;
+	text-align: center;
+}
+
+.social hr {
+	border: 0;
+	border-top: 1px solid #eaebec;
+	margin: 1.313rem 0;
+}
+
+.social .icons > li {
+	display: inline-block;
+	margin: 1.25rem 5px;
+	text-align: center;
+}
+
+.social .icons > li:hover {
+	cursor:pointer;
+}
