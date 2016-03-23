@@ -6,6 +6,12 @@ html {
 }
 
 /*Navigation Section */
+
+.top-navigation > .content {
+	margin: 0 auto;
+	padding: 0px 15px;
+}
+
 .top-navigation .links {
 	float: right;
 	font-family: 'Roboto', sans-serif;
