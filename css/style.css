@@ -18,6 +18,14 @@ body {
 
 /*Navigation Section */
 
+.top-navigation {
+	background-color: #fff;
+	position: fixed;
+	width: 100%;
+	border-bottom: 1px solid #DDD;
+	z-index: 9999;
+}
+
 .top-navigation > .content {
 	height: 4.375rem;
 }
